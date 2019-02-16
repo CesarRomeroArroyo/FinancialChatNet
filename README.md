@@ -17,7 +17,7 @@ Es necesario antes de instalar FinancialChatNet realizar las siguientes instalac
 
 ERLAN puede ser descargado desde http://www.erlang.org/downloads
 RabbitMQ puede ser descargado desde https://www.rabbitmq.com/download.html
-MYSQL puede ser instalado descargando un servidor como WAMP o XAMP o descargandolo desde la pagina de MYSQL, descargue Wamp desde https://drive.google.com/open?id=0B1l0uB9X-wcmbjZaQk1nWWg1LTA, para mas informacion ingrese a http://www.wampserver.com/en/ , un vez instalado Mysql procederemos a cargar la base de datos en el motor de MYSQL
+MYSQL puede ser instalado descargando un servidor como WAMP o XAMP o descargandolo desde la pagina de MYSQL, descargue Wamp desde https://drive.google.com/open?id=0B1l0uB9X-wcmbjZaQk1nWWg1LTA, para mas informacion ingrese a http://www.wampserver.com/en/ , un vez instalado Mysql procederemos a cargar la base de datos incluida en el archivo financialchatnet.sql en el motor de MYSQL
 
 
 ## INSTALACION DE FINANCIALCHATNET
@@ -61,7 +61,7 @@ It is necessary before installing FinancialChatNet to perform the following inst
 ERLAN can be downloaded from http://www.erlang.org/downloads
 RabbitMQ can be downloaded from https://www.rabbitmq.com/download.html
 MYSQL can be installed by downloading a server such as WAMP or XAMP or downloading it from the MYSQL website, download Wamp from https://drive.google.com/open?id=0B1l0uB9X-wcmbjZaQk1nWWg1LTA, for more information go to http: // www .wampserver.com / en /
-, once installed Mysql we will proceed to load the database in the MYSQL engine
+, once Mysql is installed we will proceed to load the database included in the file financialchatnet.sql in the MYSQL engine
 
 
 ## INSTALLATION OF FINANCIALCHATNET
