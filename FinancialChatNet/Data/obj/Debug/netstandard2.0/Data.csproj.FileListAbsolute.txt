@@ -1,0 +1,24 @@
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Data\obj\Debug\netstandard2.0\Data.csprojResolveAssemblyReference.cache
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Data\bin\Debug\netstandard2.0\Transversal.dll
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Data\bin\Debug\netstandard2.0\Transversal.pdb
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Data\bin\Debug\netstandard2.0\Transversal.dll
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Data\bin\Debug\netstandard2.0\Transversal.pdb
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Data\obj\Debug\netstandard2.0\Data.pdb

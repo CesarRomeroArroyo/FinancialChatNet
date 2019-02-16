@@ -1,0 +1,18 @@
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Transversal\bin\Debug\netstandard2.0\Transversal.deps.json
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Transversal\bin\Debug\netstandard2.0\Transversal.dll
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Transversal\bin\Debug\netstandard2.0\Transversal.pdb
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Transversal\obj\Debug\netstandard2.0\Transversal.csprojResolveAssemblyReference.cache
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Transversal\obj\Debug\netstandard2.0\Transversal.csproj.CoreCompileInputs.cache
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Transversal\obj\Debug\netstandard2.0\Transversal.AssemblyInfoInputs.cache
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Transversal\obj\Debug\netstandard2.0\Transversal.AssemblyInfo.cs
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Transversal\obj\Debug\netstandard2.0\Transversal.dll
+C:\Ejercicio\FinancialChatMVC\FinancialChatNet\Transversal\obj\Debug\netstandard2.0\Transversal.pdb
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Transversal\bin\Debug\netstandard2.0\Transversal.deps.json
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Transversal\bin\Debug\netstandard2.0\Transversal.dll
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Transversal\bin\Debug\netstandard2.0\Transversal.pdb
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Transversal\obj\Debug\netstandard2.0\Transversal.csprojAssemblyReference.cache
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Transversal\obj\Debug\netstandard2.0\Transversal.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Transversal\obj\Debug\netstandard2.0\Transversal.AssemblyInfoInputs.cache
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Transversal\obj\Debug\netstandard2.0\Transversal.AssemblyInfo.cs
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Transversal\obj\Debug\netstandard2.0\Transversal.dll
+C:\Users\Cesar Romero\Documents\FinancialChatNet\Transversal\obj\Debug\netstandard2.0\Transversal.pdb

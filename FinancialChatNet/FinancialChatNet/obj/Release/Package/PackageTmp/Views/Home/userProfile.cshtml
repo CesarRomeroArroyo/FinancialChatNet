@@ -1,0 +1,84 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                    type: "POST",
+                    url: "@Url.Action("getMyMessage")",
+                    contentType: "application/json; charset=utf-8",
+                    data: '{}',
+                    dataType: "json",
+                    success: function (r) {
+                        for (var i = 0; i < r.length; i++) {
+                            $("#bodyTableHistorial").append("<tr><td>" + r[i].producer + "</td><td>" + r[i].consumer + "</td><td>" + r[i].message + "</td><td>" + r[i].date + "</td></tr>");
+                        }
+                    },
+                    error: function (r) {
+                        alert("error");
+                    }
+                });
+        });
+    </script>
+
+
+ 
+    <nav class="nav navbar-default">
+        <div class="navbar-brand">
+            @Html.ActionLink("Back", "Index", "Home")
+        </div><br />
+    </nav>
+    <br />
+    <div class="clearfix"></div>
+
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-md-12">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <div class="panel-title">User profile</div>
+
+                        </div>
+                        <div class="panel-footer">
+                            <div class="form-group">
+                                <label for="txtemail">User</label>
+                                @Session["username"].ToString()
+                            </div>
+
+                        </div>
+                        
+                    </div>
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <div class="panel-title">Historial Message</div>
+
+                        </div>
+                        <div class="panel-body">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">From</th>
+                                        <th scope="col">To</th>
+                                        <th scope="col">Message</th>
+                                        <th scope="col">Date</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="bodyTableHistorial">
+                                    
+                                </tbody>
+                            </table>
+
+                        </div>
+                        
+                    </div>
+                </div>
+              
+
+            </div>
+        </div>
+    
+
+
